@@ -7,11 +7,14 @@ a pie chart][3], [gradually reduce the columns][4], [allow users to determine
 columns][5], and even allow [partial scrolling across the table][6]. All of
 them are very clever.
 
-However, there are concerns about many of them: 1. Some of them would be hard
-to implement in the real world – especially those that rely on the `::before`
-pseudo-element selectors to generate table headers 2. Some of them may not
-work for all types of table data – like the pie chart solution. 3. Some of
-them many confuse the end users – like the disappearing column solution.
+However, there are concerns about many of them: 
+1. Some of them would be hard to implement in the real world – especially 
+those that rely on the `::before` pseudo-element selectors to generate table 
+headers.
+2. Some of them may not work for all types of table data – like the pie 
+chart solution.
+3. Some of them many confuse the end users – like the disappearing column 
+solution.
 
 Would you like to see a super-simple solution for responsive tables – that
 needs no JavaScript and just a few lines of CSS? Take a look:
