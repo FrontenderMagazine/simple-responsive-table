@@ -120,12 +120,12 @@ What do you think?
 [5]:  http://filamentgroup.com/examples/rwd-table-patterns/
 [6]:  http://www.zurb.com/playground/playground/responsive-tables/index.html
 
-[7]:  http://www.maxdesign.com.au/jobs/example-table/index1.htm
-[8]:  http://www.maxdesign.com.au/jobs/example-table/index2.htm
+[7]:  demo1.html
+[8]:  demo2.html
 
 [9]:  http://jscrollpane.kelvinluck.com/index.html
 [10]: http://manos.malihu.gr/jquery-custom-content-scroller/
 [11]: http://www.myjqueryplugins.com/jquery-plugin/jscrollbar
 [12]: http://baijs.nl/tinyscrollbar/
 
-[13]: http://www.maxdesign.com.au/jobs/example-table/index4.htm
+[13]: demo4.html
